@@ -1,3 +1,10 @@
+
+
+
+
+https://github.com/BOOMYTECH/StreamDeck/blob/main/IMG/macropad.jpg
+
+
 pls watch this video: https://youtu.be/Mo-rt3FcY6s to see how this Stream Deck has been created.
 
 PCB for this project:
