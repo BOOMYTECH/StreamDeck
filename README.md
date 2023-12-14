@@ -5,6 +5,8 @@ The device we will create also includes a Joggle which will allow you to simulat
 
 
 ![](https://github.com/BOOMYTECH/StreamDeck/blob/main/IMG/macropad.jpg)
+![](https://github.com/BOOMYTECH/StreamDeck/blob/main/IMG/macropad2.png)
+![](https://github.com/BOOMYTECH/StreamDeck/blob/main/IMG/macropad3.jpg)
 
 
 pls watch this video: https://youtu.be/Mo-rt3FcY6s to see how this Stream Deck has been created.
